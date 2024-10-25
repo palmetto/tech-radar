@@ -368,6 +368,71 @@
       "link": "https://www.notion.so/agreena/Horovod-32bfb45ac8d14abc9a3aaf1adf91d127",
       "active": true,
       "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "Lightning",
+      "link": "https://lightning.ai/docs/overview/getting-started",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "GDAL",
+      "link": "https://gdal.org/en/latest/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "PyTorch",
+      "link": "https://pytorch.org/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "FlatGeobuf",
+      "link": "https://flatgeobuf.org/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "GeoPandas",
+      "link": "https://geopandas.org/en/stable/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Xarray",
+      "link": "https://docs.xarray.dev/en/stable/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2, 
+      "ring": 0,
+      "label": "EuroCrops",
+      "link": "https://github.com/maja601/EuroCrops",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2, 
+      "ring": 0,
+      "label": "EU crops GT dataset (internal)",
+      "link": "https://www.notion.so/agreena/New-EU-open-source-crops-datasets-7962bf211eaa4a3f852b2d0e854bd856",
+      "active": true,
+      "moved": 0
     }
+
   ]
 }
